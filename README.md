@@ -1,8 +1,11 @@
 # mmt01-grading-system
 
 TITLE: "Proposal of A New Grading Scale under Remote Learning in The Philippine Science High School System"
+
 AUTHORS: ANONYMOUS
+
 COURSE: MMT01 - Mathematical Modelling
+
 DATE: October 7, 2020
 
 This is a project for the paper mentioned in order to provide simulation analysis for a new grading system as referenced to the citation Kulick, G., & Wright, R. (2008). The Impact of Grading on the Curve: A Simulation Analysis. International Journal for the Scholarship of Teaching and Learning, 2(2). https://doi.org/10.20429/ijsotl.2008.020205. The python files are used to create the data and the text files are the randomized outputs that are provided for n = 1,000,000 different situations for each simulation iteration. 
